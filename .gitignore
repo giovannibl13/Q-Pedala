@@ -1,0 +1,8 @@
+/target/
+/build/
+/src/main/resources/banco.properties
+/.settings/
+/.classpath
+/.project
+/.vscode/
+*.log
